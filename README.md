@@ -5,8 +5,12 @@
 
 👋 Holaa, Soy Alejo Clifton, tengo 21 años soy un desarrollador frontend junior, capacitandose constantemente.
 
-### Los lenguajes de programación que utilizo son:
+### Actualmente me dedico a:
+- Reforzar conocimiento en MERN y nuevas tecnologías.
+- Realizar proyectos relacionados MERN.
+- Afianzar e investigar principios, buenas prácticas y metodologías de desarrollo.
 
+### Los lenguajes de programación que utilizo son:
 -   Html
 -   Css/Sass
 -   JavaScript
@@ -21,3 +25,4 @@
 - [Portfolio], en desarrollo...
 
 
+<a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="120" height="120"/></a> 
