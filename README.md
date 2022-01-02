@@ -11,8 +11,20 @@
         <li> Realizar proyectos full stack </li>
 </ul>
 
+<h3 align="left">Contacto:</h3>
+<ul>
+        <li><p align="left">
+<a href="https://linkedin.com/in/alejo-clifton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejo-clifton" height="30" width="40" /></a> <a href="https://linkedin.com/in/alejo-clifton">Linkedln</a>
+</p></li>
+        <li>
+                <p align="left">
+                        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail-clifton" height="30" width="40" />                                                   cliftonalejo@gmail.com
+                </p>
+        </li>
+</ul>
+
 <p align="left">Portofio aún en desarrollo</p>
-    
+
 <h2 align="left">Tengo conocimiento en:</h2>
 
 <h3 align="left">Frontend</h3>
@@ -126,15 +138,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monderks&" alt="monderks" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monderks&show_icons=true&locale=en&layout=compact" alt="monderks" /></p>
-
-<h3 align="left">Contacto:</h3>
-<ul>
-        <li><p align="left">
-<a href="https://linkedin.com/in/alejo-clifton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejo-clifton" height="30" width="40" /></a> <a href="https://linkedin.com/in/alejo-clifton">Linkedln</a>
-</p></li>
-        <li>
-                <p align="left">
-                        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail-clifton" height="30" width="40" />                                                   cliftonalejo@gmail.com
-                </p>
-        </li>
-</ul>
