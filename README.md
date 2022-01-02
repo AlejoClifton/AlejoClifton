@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alejo Clifton</h1>
 <h3 align="center">Soy un desarrollador Frontend de Argentina</h3>
 
-- 👨‍💻 PortFolio [En desarrollo](En desarrollo)
+<h4 align="left">Actualmente me dedico a:</h4>
+<ul>
+        <li> Reforzar conocimientos sobre el stack tecnológico MERN y nuevas tecnologías</li>
+        <li> Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo</li>
+        <li> Realizar proyectos full stack </li>
+</ul>
 
-- 📫 Contacto **cliftonalejo@gmail.com**
-
-<h3 align="left">Contacto:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alejo-clifton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejo-clifton" height="30" width="40" /></a>
-</p>
+<h2 align="left">Tengo conocimiento en:</h2>
 
 <h3 align="left">Frontend</h3>
         <p align="left">
@@ -27,6 +27,14 @@
                     width="40"
                     height="40"
             /></a>
+                <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+                <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+                    alt="sass"
+                    width="40"
+                    height="40"
+                />
+            </a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                 <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -43,17 +51,9 @@
                     height="40"
                 />
             </a>
-            <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-                <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-                    alt="sass"
-                    width="40"
-                    height="40"
-                />
-            </a>
         </p>
 
-        <h3 align="left">Backend</h3>
+<h3 align="left">Backend</h3>
         <p align="left">
             <a href="https://nodejs.org" target="_blank" rel="noreferrer">
                 <img
@@ -72,8 +72,7 @@
             /></a>
         </p>
 
-        <h3 align="left">Database</h3>
-
+<h3 align="left">Database</h3>
         <p align="left">
             <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
                 <img
@@ -103,22 +102,30 @@
                 />
             </a>
         </p>
-        <h3 align="left">Database as a Service</h3>
+<h3 align="left">Database as a Service</h3>
         <p align="left">
             <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
             </a>
         </p>
 
-        <h3 align="left">Other</h3>
+<h3 align="left">Other</h3>
         <p align="left">
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
             </a>
         </p>
-            
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monderks&show_icons=true&locale=en&layout=compact" alt="monderks" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monderks&show_icons=true&locale=en" alt="monderks" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monderks&" alt="monderks" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monderks&show_icons=true&locale=en&layout=compact" alt="monderks" /></p>
+
+<h3 align="left">Contacto:</h3>
+<ul>
+        <li><p align="left">
+<a href="https://linkedin.com/in/alejo-clifton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejo-clifton" height="30" width="40" /></a>
+</p></li>
+        <li>📫 Contacto **cliftonalejo@gmail.com**</li>
+</ul>
