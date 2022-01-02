@@ -134,7 +134,7 @@
 </p></li>
         <li>
                 <p align="left">
-                        <i target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail-clifton" height="30" width="40" />                                </i>cliftonalejo@gmail.com
+                        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail-clifton" height="30" width="40" />                                                   cliftonalejo@gmail.com
                 </p>
         </li>
 </ul>
