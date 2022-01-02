@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alejo Clifton</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">Soy un desarrollador Frontend de Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monderks&label=Profile%20views&color=0e75b6&style=flat" alt="monderks" /> </p>
+- 👨‍💻 PortFolio [En desarrollo](En desarrollo)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monderks" alt="monderks" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [En desarrollo](En desarrollo)
-
-- 📫 How to reach me **cliftonalejo@gmail.com**
+- 📫 Contacto **cliftonalejo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
