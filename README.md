@@ -19,4 +19,5 @@
 
 - [Linkedln](https://www.linkedin.com/in/alejo-clifton/)
 - [Portfolio], en desarrollo...
-![image](https://user-images.githubusercontent.com/64331172/147880450-ae1c29d0-50f0-44b4-b907-1772d7d9b5aa.png)
+
+
