@@ -7,7 +7,7 @@
 
 <ul>
         <li> Reforzar conocimientos sobre el stack tecnológico MERN y otras tecnologías</li>
-        <li> Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo</li>
+        <li> Afianzar e investigar principios, realizar buenas prácticas y metodologías de desarrollo</li>
         <li> Realizar proyectos full stack </li>
 </ul>
 
