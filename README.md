@@ -1,6 +1,4 @@
-```html
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous"/>```
-        
+     
 # Bienvenidos a mi perfil 👋
 
 ## Técnico Universitario en Programación
@@ -21,6 +19,4 @@
 
 - [Linkedln](https://www.linkedin.com/in/alejo-clifton/)
 - [Portfolio], en desarrollo...
-
-```html
-<i class="fab fa-html5"></i>```
+![image](https://user-images.githubusercontent.com/64331172/147880450-ae1c29d0-50f0-44b4-b907-1772d7d9b5aa.png)
