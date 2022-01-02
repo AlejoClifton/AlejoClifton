@@ -23,6 +23,7 @@
 
 - [Linkedln](https://www.linkedin.com/in/alejo-clifton/)
 - [Portfolio], en desarrollo...
+- 
 <link
             rel="stylesheet"
             href="https://use.fontawesome.com/releases/v5.15.3/css/all.css"
@@ -30,4 +31,6 @@
             crossorigin="anonymous"
         />
 
+
 <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="120" height="120"/></a> 
+<i class="fab fa-html5"></i>
