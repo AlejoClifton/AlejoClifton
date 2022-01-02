@@ -17,4 +17,4 @@
 ### Formas de contacto:
 
 - [Linkedln](https://www.linkedin.com/in/alejo-clifton/)
-- [Portfolio, en desarrollo...]
+- [Portfolio], en desarrollo...
