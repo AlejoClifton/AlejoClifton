@@ -11,6 +11,8 @@
         <li> Realizar proyectos full stack </li>
 </ul>
 
+<h3 align="left">Portofio aún en desarrollo</h3>
+    
 <h2 align="left">Tengo conocimiento en:</h2>
 
 <h3 align="left">Frontend</h3>
