@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejo Clifton</h1>
 <h3 align="center">Soy un desarrollador Full Stack de Argentina</h3>
 
-<p align="center">Me llamo Alejo Tomás Clifton Goldney, tengo 22 años y soy Técnico Universitario en Programación.</p>
+<p align="center">Me llamo Alejo Tomás Clifton Goldney, tengo 23 años y soy Técnico Universitario en Programación.</p>
 <p align="center">Tengo 2 años de experiencia, trabajé para los medios de comunicación más grandes de Argentina, TN - Eltrece. Principalmente encabezado en el rediseño completo de eltrece.</p>
 
 <h4 align="left">Actualmente me dedico a:</h4>
